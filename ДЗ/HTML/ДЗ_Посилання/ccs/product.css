@@ -1,0 +1,21 @@
+table {
+    margin-top: 7px;
+    margin-bottom: 17px;
+}
+.first {
+    width: 100%;
+    border: 1px solid  black;
+    color:rgb(90, 79, 79)
+}
+
+
+.first  tr:nth-of-type(odd){
+ background-color: aliceblue;
+}
+.first  tr:nth-of-type(even){
+    background-color:rgb(223, 217, 217)
+   }
+   .first tr:nth-of-type(1){
+    background-color:cadetblue;
+    color: white
+   }

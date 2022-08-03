@@ -1,0 +1,36 @@
+/* css for form part */
+
+div.form {
+    width: 85%;
+    min-width: 200px;
+    border-width: 1px;
+    align-content: center;
+    width: 1000px;
+    margin: auto;
+}
+
+div h2 {
+    text-align: center;
+}
+
+label {
+    display: inline-block;
+    width: 100px
+}
+
+div.form div {
+    margin-bottom: 5px;
+}
+
+#form-part-1, #form-part-2, #form-part-3, #form-part-4  {
+    width: 800px;
+    margin: auto;
+}
+#rating-president {
+    display: inline-block;
+    width: 500px;
+    white-space: nowrap;
+    overflow-x: scroll;
+    border-width: 0ch;
+}
+

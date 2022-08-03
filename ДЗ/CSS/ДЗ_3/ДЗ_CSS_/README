@@ -1,0 +1,70 @@
+Виконати окремі завдання розділені лініями
+1.	Усі теги input з класом info зробити червоним, а усі теги p з класом info зробити зеленим. Третій абзац – синім.
+•	aaaaaaa
+•	bbbbbb
+•	ccccccc
+1.	aaaaaaa
+2.	bbbbbb
+3.	ccccccc
+•	aaaaaaa
+•	bbbbbb
+•	ccccccc
+1.	aaaaaaa
+2.	bbbbbb
+3.	ccccccc
+•	aaaaaaa  клас-first
+•	bbbbbb
+•	ccccccc
+4.	aaaaaaa - клас-first
+5.	bbbbbb
+6.	ccccccc
+•	aaaaaaa  клас-first
+•	bbbbbb
+•	ccccccc
+4.	aaaaaaa  клас-first
+5.	bbbbbb
+6.	ccccccc
+
+
+ 
+<div>
+<h1 > Title </h1>
+<p id="Frirst" class="edge">
+Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello.
+</p>
+<h1 > Title </h1>
+<section>
+
+<p id="MyTitle2" class="middle"> From From From From From From From From From From From From From From From From From From From From From From From From From From From From From From From From 
+</p>
+</section>
+<h1 > Title </h1>
+<p>
+From From From From From From From From From From From From From From From From From From From From From From From From From From From From From From From From
+</p> 
+<section>
+<p>
+<b> Text Text Text Text Text Text </b>
+<b> Text Text Text Text Text Text </b>
+<b> Text Text Text Text Text Text </b>
+</p>
+</section>
+</div>
+<p >
+ From From From From From From From From From From From From From From From From From From From From From From From From From From From From From From From From 
+</p>
+ 
+
+
+<h1>1111111111111</h1>
+<p id="MyTitle5" class="edge"> World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. 
+</p>
+<p id="MyTitle5" class="edge"> World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. 
+</p>
+---------------------------------
+<h1>1111111111111</h1>
+<p id="MyTitle5" class="edge"> World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. 
+</p>
+<p id="MyTitle5" class="edge"> World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. 
+</p>
+---------------------------------

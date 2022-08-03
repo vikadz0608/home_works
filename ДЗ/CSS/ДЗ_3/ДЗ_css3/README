@@ -1,0 +1,32 @@
+Задача 1.
+Розглядайте тільки текст (малюнків не потрібно). Класи і ідентифікатори визначайте самостійно.
+
+Задача 2.
+Задача 3. Відформатувати вказані фрагменти згідно з вказаними кольорами
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+  <title>Селекторы атрибутов</title>
+</head>
+ <body>
+  <p><a href="#">Теги HTML</a> | 
+  <a href="http://ukr.net">Шаг за шагом</a> | 
+  <a href="http://css.in.a">Графика для Веб</a>
+  </p>
+  <p><a href="#" class=”ok”>Теги HTML</a> | 
+  <a href="http://Cpp.net">Шаг за шагом</a> | 
+  <a href="http://css.in.org">Графика для Веб</a>
+  </p>
+<p id=”red”>
+   Text Text Text  Text Text Text Text Text Text 
+</p>
+<p id=”blue”>
+   Text Text Text  Text Text Text Text Text Text 
+</p>
+<p class=”last”>
+   Text Text Text  Text Text Text Text Text Text 
+</p>
+
+ </body>
+</html>

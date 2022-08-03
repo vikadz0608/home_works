@@ -1,0 +1,31 @@
+ВІДФОРМАТУВАТИ ТЕКС ЗГІДНО З ВКАЗАНИМИ КОЛЬОРАМИ З МІНІМАЛЬНОЮ КІЛЬКСТІЮ СЕЛЕКТОРІВ !!!
+<h1 > Title </h1>
+<p id="Frirst" class="edge">
+Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello.
+</p>
+<h1 > Title </h1>
+<p id="MyTitle1" class="my-class edge"> Title </p>
+<p id="MyTitle2" class="middle"> From From From From From From From From From From From From From From From From From From From From From From From From From From From From From From From From 
+</p>
+<h1 > Title </h1>
+<p id="MyTitle3" class="middle"> From From From From From From From From From From From From From From From From From From From From From From From From From From From From From From From From 
+<b> Text Text Text Text Text Text </b>
+<a href=”#”>Link</a>
+<b> Text Text Text Text Text Text </b>
+<b> Text Text Text Text Text Text </b>
+<b> Text Text Text Text Text Text </b>
+
+</p>
+<p id="MyTitle4" class="middle"> From From From From From From From From From From From From From From From From From From From From From From From From From From From From From From From From 
+<a href=”#”>Link</a>
+<b> Text Text Text Text Text Text </b>
+<b> Text Text Text Text Text Text </b>
+<b> Text Text Text Text Text Text </b>
+<a href=”#”>Link</a>
+<b> Text Text Text Text Text Text </b>
+<b> Text Text Text Text Text Text </b>
+<b> Text Text Text Text Text Text </b>
+
+</p>
+<p id="MyTitle5" class="edge"> World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. 
+</p>
